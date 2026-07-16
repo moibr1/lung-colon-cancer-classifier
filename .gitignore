@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+WebApp/frontend/node_modules/
+WebApp/frontend/.next/
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/worktrees/
+
+# Sensitive/local-only documents
+BasvuruFormu Patentt (lojain borhan).doc
+makale.docx
